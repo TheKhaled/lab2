@@ -1,4 +1,4 @@
-class PrintHelloITI {
+export class PrintHelloITI {
   
       Print( ) {
        
