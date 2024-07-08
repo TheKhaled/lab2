@@ -1,4 +1,4 @@
-class PrintHelloWorld {
+export class PrintHelloWorld {
     Print( ) {
        
         console.log("helllo world ");
